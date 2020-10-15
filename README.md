@@ -9,7 +9,7 @@
   <li>Production rules and expert systems</li>
 </ol>
 <hr>
-<h2>AI - Artificial Intelligence</h2>
+<h2>Aula 1: AI - Artificial Intelligence</h2>
 <img src="https://s3.amazonaws.com/re-work-production/post_images/821/Untitled_design_%2831%29/original.png?1555488979"/>
 <p>Apesar de não haver um consenso sobre o que seja exatamente <b>Inteligência Artificial</b>, diferentes autores procuraram definir o termo ao longo do tempo. A seguir listamos algumas dessas definições:</p>
 <blockquote><i>"A automação de atividades que associamos ao pensamento humano, atividades tais como tomadas de decisão , resolução de problemas, aprendizado .." - <b>Bellman</b>, 1978.</blockquote></i>
@@ -19,7 +19,7 @@
 <blockquote><i>"O campo de estudos que procura emular comportamento inteligente em termos de processos computacionais.” - <b>Schalkoff</b>, 1990.</b></blockquote></i>
 <blockquote><i>"O ramo da ciência da computação que está interessado em automatizar comportamento inteligente.” - <b>Luger e Stubblefield</b>, 1993.</b></blockquote></i>
 <blockquote><i>"O campo de estudos que busca desenvolver técnicas computacionais para realizar tarefas que requerem inteligência quando realizadas por seres humanos. Envolve o desenvolvimento de tecnologia que permita lidar com categorias tais como raciocínio, aprendizado e percepção.” - <b>Takimoto</b>, 1987.</b></blockquote></i>
-
+<h3>O que é inteligência?</h3>
 
 
 
