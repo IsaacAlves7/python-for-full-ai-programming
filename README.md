@@ -113,5 +113,3 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 
 
 
-<h2>Genetic Algorithms</h2>
-<img src="https://i.morioh.com/200602/bc57747e.jpg"/>
