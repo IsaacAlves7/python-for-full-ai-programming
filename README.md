@@ -40,8 +40,10 @@ Algumas possibilidades são:
 
 De uma forma geral, o termo “inteligência” é revestido de um glamour natural e que remete a coisas, originais, inovadoras ou difíceis de realizar pelo ser humano médio.
 
-
+É provavelmente mais fácil que alguém que tenha uma habilidade mental de realizar cálculos aritméticos complexos seja considerado "inteligente", do que supor inteligente alguém que pode realizar tarefas cotidianas e comezinhas como falar, reconhecer o rosto de uma pessoa, rir de algo engraçado ou decidir quando deve atravessar uma rua com tráfego intenso.
 </p>
+
+<h3>Alguns paradigmas</h3>
 
 
 
