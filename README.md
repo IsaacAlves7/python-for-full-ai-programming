@@ -35,7 +35,7 @@ Algumas possibilidades são:
   <li>Reconhecer um objeto pela a imagem?</li> 
   <li>Reconhecer o som de um objeto e saber distingui-lo?</li>   
   <li>Prever um acontecimento?</li>
-  <li>Falar? Ouvir? Conversar? Responder? Perguntar? Pensar? Agir? Obedecer? Orientar? Ler? Desenhar? Refletir? Repetir? Interagir? Trabalhar?</li>
+  <li>Falar? Ouvir? Observar? Conversar? Responder? Perguntar? Pensar? Agir? Obedecer? Orientar? Ler? Desenhar? Refletir? Repetir? Interagir? Trabalhar?</li>
 </ul>
 </p>
 
