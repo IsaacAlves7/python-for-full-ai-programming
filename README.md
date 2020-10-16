@@ -81,6 +81,7 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 </ul>
 
 <h2>🌳 Sistemas baseados em Conhecimento 🎄</h2>
+<img src="https://www.jrmcoaching.com.br/wp-content/uploads/2015/12/shutterstock_193863815.jpg" width="1070"/>
 <p></p>
 
 
