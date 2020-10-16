@@ -6,14 +6,14 @@ OBS: Recomendo repetir as mesmas atividades, fazer os exercícios e executar os 
 </p>
 
 <img src="https://www.valuecoders.com/blog/wp-content/uploads/2019/04/pithonfeat.png"/>
-<h2>Introduction: Overview about the Python AI</h2>
+<h2>Introduction - Overview about the Python AI</h2>
 <ol>
-  <li>AI-Artificial Intelligence</li>
+  <li>AI - Artificial Intelligence</li>
   <li>Graph search strategy at no cost</li>
   <li>Production rules and expert systems</li>
 </ol>
 <hr>
-<h2>Aula 1: AI - Artificial Intelligence</h2>
+<h2>AI - Artificial Intelligence</h2>
 <img src="https://s3.amazonaws.com/re-work-production/post_images/821/Untitled_design_%2831%29/original.png?1555488979"/>
 <p>Apesar de não haver um consenso sobre o que seja exatamente <b>Inteligência Artificial</b>, diferentes autores procuraram definir o termo ao longo do tempo. A seguir listamos algumas dessas definições:</p>
 <blockquote><i>"A automação de atividades que associamos ao pensamento humano, atividades tais como tomadas de decisão , resolução de problemas, aprendizado .." - <b>Bellman</b>, 1978.</blockquote></i>
