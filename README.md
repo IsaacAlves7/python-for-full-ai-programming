@@ -46,7 +46,7 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 <h3>Alguns paradigmas</h3>
 <p>Ao abordar tais questões, os diversos paradigmas, atualmente pesquisados, obtém mais ou menos sucesso, de acordo com suas <b>características</b>, <b>virtudes</b> e <b>limitações</b>. Uma abordagem ligeira desses paradigmas, que serão estudados melhor ao longo da disciplina, é feita a seguir:</p>
 
-<h3>🌳 Sistemas baseados em conhecimento</h3>
+<h4>🌳 Sistemas baseados em conhecimento</h4>
 <ul>
   <li>(Buscas em tabelas, árvores de decisão, busca heurística, sistemas baseados em regras).</li>
   <li>Lidam com conhecimento explícito e representado simbolicamente.</li>  
@@ -56,7 +56,7 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
   <li>Principais aplicações: jogos, configurações de produtos, emissão de propostas, telemarketing, distribuição, concessão de crédito, gestão de carteira, orientação a clientes, seleção, orçamento, planejamento estratégico, alocação de recursos, diagnóstico, terapêutica, sistemas tutoriais e psico-testes.</li>   
 </ul>
 
-<h3>🧠 Modelos Conexionistas (Redes Neurais)</h3>
+<h4>🧠 Modelos Conexionistas (Redes Neurais)</h4>
 <ul>
   <li>Lidam com conhecimento não simbolicamente representado.</li>
   <li>Levemente inspirados no comportamento do cérebro.</li>  
