@@ -23,7 +23,7 @@ OBS: Recomendo repetir as mesmas atividades, fazer os exercícios e executar os 
 <blockquote><i>"O campo de estudos que procura emular comportamento inteligente em termos de processos computacionais.” - <b>Schalkoff</b>, 1990.</b></blockquote></i>
 <blockquote><i>"O ramo da ciência da computação que está interessado em automatizar comportamento inteligente.” - <b>Luger e Stubblefield</b>, 1993.</b></blockquote></i>
 <blockquote><i>"O campo de estudos que busca desenvolver técnicas computacionais para realizar tarefas que requerem inteligência quando realizadas por seres humanos. Envolve o desenvolvimento de tecnologia que permita lidar com categorias tais como raciocínio, aprendizado e percepção.” - <b>Takimoto</b>, 1987.</b></blockquote></i>
-<h3>O que é inteligência?</h3>
+<h2>O que é inteligência?</h2>
 <p>De fato, muitas das definições citam <b>inteligência</b> como algo que se deseja <b>simular</b>, <b>emular</b> ou <b>mimetizar</b>. Logo, uma discussão anterior que se faz necessária é: “O que é inteligência?”.<br>
   
 Algumas possibilidades são:
