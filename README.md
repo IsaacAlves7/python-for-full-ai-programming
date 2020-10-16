@@ -35,7 +35,7 @@ Algumas possibilidades são:
   <li>Reconhecer um objeto pela a imagem?</li> 
   <li>Reconhecer o som de um objeto e saber distingui-lo?</li>   
   <li>Prever um acontecimento?</li>
-  <li>Falar? Ouvir? Observar? Conversar? Responder? Perguntar? Pensar? Agir? Obedecer? Orientar? Ler? Desenhar? Cantar? Aprender? Refletir? Repetir? Interagir? Trabalhar?</li>
+  <li>Falar? Ouvir? Observar? Conversar? Responder? Perguntar? Pensar? Agir? Obedecer? Orientar? Ler? Desenhar? Cantar? Aprender? Refletir? Repetir? Interagir? Executar?  Trabalhar? Informar? Solicitar?</li>
 </ul>
 
 De uma forma geral, o termo “inteligência” é revestido de um glamour natural e que remete a coisas, originais, inovadoras ou difíceis de realizar pelo ser humano médio.
