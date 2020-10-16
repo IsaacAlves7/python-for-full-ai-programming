@@ -68,23 +68,16 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 <h3>🔀 Sistemas Nebulosos (Lógica Fuzzy)</h3>
 <ul>
   <li>Modelam os modos imprecisos do raciocínio aproximado que influenciam na habilidade humana de tomar decisões.</li>
-  <li>Realizam o raciocínio aproximado, com proposições imprecisas, descritas em linguagem natural usando a teoria de conjuntos nebulosos.</li>  
-  <li>Processam a informação de forma paralela e distribuída.</li> 
-  <li>Aprendem com treinamento.</li> 
-  <li>Generalizam o conhecimento aprendido.</li> 
-  <li>Por não lidarem com conhecimento simbólico, não justificam decisões.</li>   
-  <li>Algumas aplicações: Reconhecimento de fala, classificação de sinais de sensores, reconhecimento de imagens, previsão de índices do mercado financeiro, previsão de séries temporais, reconhecimento de voz, aplicações gerais de classificação, agrupamento e previsão.</li>    
+  <li>Realizam o raciocínio aproximado, com proposições imprecisas, descritas em linguagem natural usando a teoria de conjuntos nebulosos como ferramenta para convertê-las em formato numérico.</li>  
+  <li>Algumas aplicações: controle de aeronaves, operação do metrô, transmissão automática de veículos, controle de elevadores, análise do mercado de ações, ajuste da imagem de TV, autofocus para câmera de vídeo, estabilizador de imagens de filmadoras, controle de máquinas de lavar e sistemas de ar condicionado.</li>    
 </ul>
 
 <h3>🧬 Computação Evolucionária (Algoritmos Genéticos)</h3>
 <ul>
-  <li>Modelam os modos imprecisos do raciocínio aproximado que influenciam na habilidade humana de tomar decisões.</li>
-  <li>Realizam o raciocínio aproximado, com proposições imprecisas, descritas em linguagem natural usando a teoria de conjuntos nebulosos.</li>  
-  <li>Processam a informação de forma paralela e distribuída.</li> 
-  <li>Aprendem com treinamento.</li> 
-  <li>Generalizam o conhecimento aprendido.</li> 
-  <li>Por não lidarem com conhecimento simbólico, não justificam decisões.</li>   
-  <li>Algumas aplicações: Reconhecimento de fala, classificação de sinais de sensores, reconhecimento de imagens, previsão de índices do mercado financeiro, previsão de séries temporais, reconhecimento de voz, aplicações gerais de classificação, agrupamento e previsão.</li>    
+  <li>São algoritmos de otimização global que baseiam-se nos mecanismos da seleção natural e da genética.</li>
+  <li>Empregam uma estratégia de busca paralela e estruturada, que é voltada em direção ao reforço da busca de pontos de “alta aptidão”.</li>  
+  <li>Exploram informações históricas para encontrar novos pontos de busca, onde são esperados melhores desempenhos, através de processos iterativos, onde cada iteração é chamada de geração.</li> 
+  <li>Algumas aplicações: problemas gerais de roteamento, controle de sistemas dinâmicos, indução e otimização de bases de regras, encontrar topologias conexionistas, simulação de modelos biológicos, evolução interativa de imagens.</li>   
 </ul>
 
 
