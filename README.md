@@ -80,7 +80,7 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
   <li>Algumas aplicações: problemas gerais de roteamento, controle de sistemas dinâmicos, indução e otimização de bases de regras, encontrar topologias conexionistas, simulação de modelos biológicos, evolução interativa de imagens.</li>   
 </ul>
 
-<p>Em suma, o <b>conhecimento</b> é a base para o desenvolvimento de modelos que envolvam <b>inteligência</b>. Como todos os paradigmas citados serão abordados ao longo da disciplina, a abordagem de cada técnica não será extensa nem profunda, para que todas elas possam ser abordadas e possamos as diferentes inspirações e aplicações.</p>
+<p>Em suma, o <b>conhecimento</b> é a base para o desenvolvimento de modelos que envolvam <b>inteligência</b>.</p>
 
 <hr>
 
