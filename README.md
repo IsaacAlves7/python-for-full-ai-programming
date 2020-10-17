@@ -96,7 +96,7 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 
 <p>Por exemplo, os problemas que envolvem <strong>jogos de tabuleiro</strong>, em geral possuem essa característica. Em um jogo de xadrez, damas ou gamão, a situação do tabuleiro após cada lance de um dos adversários caracteriza <b>um “estado”</b> do jogo. 
 
-O <i>jogo</i> em si é uma <b>sucessão de estados distintos, reconhecíveis e identificáveis</b>.</li> 
+O <i>jogo</i> em si é uma sucessão de <b>estados distintos, reconhecíveis e identificáveis</b>.</li> 
 
 <li>Além de estados, esse tipo de problema também se caracteriza por ter “<b>operações</b>” conhecidas que <b>ocasionam as mudanças de estado</b>. Nos jogos de tabuleiro, por exemplo, as operações são as movimentações possíveis das peças, impostas pelas regras do jogo.</li>
 
