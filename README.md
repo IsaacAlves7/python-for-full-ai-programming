@@ -92,7 +92,7 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 <ol>
 <li>A primeira delas é que deve ser possível <b>representar e reconhecer as situações estáticas do problema</b>, que podem ser chamadas de “<b>estados</b>”. Ou seja, são problemas caracterizados por <b>evoluírem em uma sequência de estados distintos e identificáveis</b>.</p>
   
-<img src="https://blog.megajogos.com.br/wp-content/uploads/2019/10/banner_xadrez.png" width="1070" title="Chess"/>
+<img src="https://blog.megajogos.com.br/wp-content/uploads/2019/10/banner_xadrez.png" width="1050" title="Chess"/>
 
 <p>Por exemplo, os problemas que envolvem <strong>jogos de tabuleiro</strong>, em geral possuem essa característica. Em um jogo de xadrez, damas ou gamão, a situação do tabuleiro após cada lance de um dos adversários caracteriza <b>um “estado”</b> do jogo. 
 
