@@ -85,7 +85,7 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 <h2>🌳 Sistemas baseados em Conhecimento 🎄</h2>
 <img src="https://youwilldobetter.com/wp-content/uploads/2014/11/webinar-conhecimento.jpg" width="1070"/>
 <p>A primeira técnica que estudaremos, aplica-se a uma classe de problemas que será definida mais à frente e que é genericamente chamada de <b>Sistemas de Produção</b>.
-  <b>Sistemas de Produção</b> são sistemas computacionais de propósito específico, baseados em conhecimento restrito e especificável. O tipo de problema que pode ser abordado com essa técnica deve possuir três características. A primeira delas é que deve ser possível representar e </p>
+<mark><b>Sistemas de Produção</b> são sistemas computacionais de propósito específico, baseados em conhecimento restrito e especificável</mark>. O tipo de problema que pode ser abordado com essa técnica deve possuir três características. A primeira delas é que deve ser possível representar e </p>
 
 <h2>🧠 Modelos Conexionistas (Redes Neurais) 💫</h2>
 <img src="https://www.pollux.com.br/index/wp-content/uploads/2019/02/redes-neurais-2.jpg" width="1070"/>
