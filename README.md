@@ -121,9 +121,18 @@ Se pudermos escolher entre diversos operadores em uma determinada situação, en
 <b>Enquanto não for satisfeita uma condição de término: Selecione um operador R</b>
 <pre><b>Novo estado &larr; R (estado atual)<b></pre>
 
-A condição de término é alcançada se foi atingido um estado final, se não há mais operadores aplicáveis ao estado atual ou se não há mais recursos computacionais.
+A condição de término é alcançada se foi atingido um estado final, se não há mais operadores aplicáveis ao estado atual ou se não há mais recursos computacionais.</p>
 
-</p>
+<h3>Representação</h3>
+<p>É possível representar um <b>Sistema de Produção</b> através de <b>Grafos de Estado</b>. 
+  
+Os <b>grafos</b> são constituídos por <b>conjuntos de vértices e de arestas</b>. É possível representar graficamente este conceito. 
+
+Por exemplo, um <em>grafo</em> <b>G</b> com <em>vértices</em> <b>V</b> = {a, b, c} e <em>arestas</em> <b>A</b> = ((a, b), (a, c)), pode ser representado graficamente como na figura.</p>
+
+
+
+
 
 <h2>🧠 Modelos Conexionistas (Redes Neurais) 💫</h2>
 <img src="https://www.pollux.com.br/index/wp-content/uploads/2019/02/redes-neurais-2.jpg" width="1040"/>
