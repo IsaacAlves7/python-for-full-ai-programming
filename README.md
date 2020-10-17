@@ -88,7 +88,8 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
   
 <b>Sistemas de Produção</b> são sistemas computacionais de <b>propósito específico</b>, baseados em <b>conhecimento restrito e especificável</b>. O tipo de problema que pode ser abordado com essa técnica deve possuir três características:
 <ol>
-<li>A primeira delas é que deve ser possível <b>representar e reconhecer as situações estáticas do problema</b>, que podem ser chamadas de “<b>estados</b>”. Ou seja, são problemas caracterizados por <b>evoluírem em uma sequência de estados distintos e identificáveis</b>. Por exemplo, os problemas que envolvem jogos de tabuleiro, em geral possuem essa característica. Em um jogo de xadrez, damas ou gamão, a situação do tabuleiro após cada lance de um dos adversários caracteriza um “estado” do jogo.</li>
+<li>A primeira delas é que deve ser possível <b>representar e reconhecer as situações estáticas do problema</b>, que podem ser chamadas de “<b>estados</b>”. Ou seja, são problemas caracterizados por <b>evoluírem em uma sequência de estados distintos e identificáveis</b>.
+Por exemplo, os problemas que envolvem jogos de tabuleiro, em geral possuem essa característica. Em um jogo de xadrez, damas ou gamão, a situação do tabuleiro após cada lance de um dos adversários caracteriza um “estado” do jogo.</li>
 </ol>
 </p>
 
