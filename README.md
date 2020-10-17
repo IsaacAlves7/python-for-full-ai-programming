@@ -85,7 +85,7 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 <hr>
 
 <h2>🌳 Sistemas baseados em Conhecimento 🎄</h2>
-<img src="https://youwilldobetter.com/wp-content/uploads/2014/11/webinar-conhecimento.jpg" width="1070"/>
+<img src="https://youwilldobetter.com/wp-content/uploads/2014/11/webinar-conhecimento.jpg" width="1000"/>
 <p>A primeira técnica que estudaremos, aplica-se a uma <em>classe de problemas</em> que será definida mais à frente e que é genericamente chamada de <b>Sistemas de Produção</b>.
   
 <b>Sistemas de Produção</b> são sistemas computacionais de <b>propósito específico</b>, baseados em <b>conhecimento restrito e especificável</b>. O tipo de problema que pode ser abordado com essa técnica deve possuir três características:
