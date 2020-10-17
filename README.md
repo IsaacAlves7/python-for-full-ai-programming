@@ -47,10 +47,10 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 <h3>🌳 Sistemas baseados em conhecimento</h3>
 <ul>
   <li><b>Buscas em tabelas, árvores de decisão, busca heurística, sistemas baseados em regras</b>.</li>
-  <li>Lidam com conhecimento explícito e representado simbolicamente.</li>  
-  <li>Examinam o seu raciocínio.</li> 
-  <li>Podem justificar conclusões.</li> 
-  <li>Atuam mesmo com conhecimento incompleto ou impreciso.</li> 
+  <li>Lidam com <b>conhecimento explícito e representado simbolicamente</b>.</li>  
+  <li><b>Examinam o seu raciocínio</b>.</li> 
+  <li>Podem <b>justificar conclusões</b>.</li> 
+  <li>Atuam mesmo com <b>conhecimento incompleto ou impreciso</b>.</li> 
   <li>Principais aplicações: jogos, configurações de produtos, emissão de propostas, telemarketing, distribuição, concessão de crédito, gestão de carteira, orientação a clientes, seleção, orçamento, planejamento estratégico, alocação de recursos, diagnóstico, terapêutica, sistemas tutoriais e psico-testes.</li>   
 </ul>
 
