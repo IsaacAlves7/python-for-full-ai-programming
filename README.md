@@ -55,12 +55,12 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 
 <h3>🧠 Modelos Conexionistas (Redes Neurais)</h3>
 <ul>
-  <li>Lidam com conhecimento não simbolicamente representado.</li>
-  <li>Levemente inspirados no comportamento do cérebro e seus neurônios.</li>  
-  <li>Processam a informação de forma paralela e distribuída.</li> 
+  <li>Lidam com <b>conhecimento não simbolicamente representado</b>.</li>
+  <li>Levemente <b>inspirados no comportamento do cérebro e seus neurônios</b>.</li>  
+  <li>Processam a informação de <b>forma paralela e distribuída</b>.</li> 
   <li>Aprendem com treinamento.</li> 
-  <li>Generalizam o conhecimento aprendido.</li> 
-  <li>Por não lidarem com conhecimento simbólico, não justificam decisões.</li>   
+  <li><b>Generalizam o conhecimento aprendido</b>.</li> 
+  <li>Por não lidarem com conhecimento simbólico, <b>não justificam decisões</b>.</li>   
   <li>Algumas aplicações: Reconhecimento de fala, classificação de sinais de sensores, reconhecimento de imagens, previsão de índices do mercado financeiro, previsão de séries temporais, reconhecimento de voz, aplicações gerais de classificação, agrupamento e previsão.</li>    
 </ul>
 
@@ -86,11 +86,11 @@ A primeira técnica que estudaremos, aplica-se a uma <em>classe de problemas</em
 <h2>🧰 Sistemas de Produção 🦾</h2>
 <img src="https://intellipaat.com/blog/wp-content/uploads/2020/05/Production-System-in-Artificial-Intelligence-Big.jpg" width="1000"/>
   
-<blockquote><b>Sistemas de Produção</b> são sistemas computacionais de <b>propósito específico</b>, baseados em <b>conhecimento restrito e especificável</b>.</blockquote> 
+<blockquote><b>Sistemas de Produção</b> são sistemas computacionais de <em>propósito específico</em>, baseados em <em>conhecimento restrito e especificável</em>.</blockquote> 
 
 O tipo de problema que pode ser abordado com essa técnica deve possuir três características:
 <ol>
-<li>A primeira delas é que deve ser possível <b>representar e reconhecer as situações estáticas do problema</b>, que podem ser chamadas de “<b>estados</b>”. Ou seja, são problemas caracterizados por <b>evoluírem em uma sequência de estados distintos e identificáveis</b>.</p>
+<li>A primeira delas é que deve ser possível <em>representar e reconhecer as situações estáticas do problema</em>, que podem ser chamadas de “<b>estados</b>”. Ou seja, são problemas caracterizados por <em>evoluírem em uma sequência de estados distintos e identificáveis</em>.</p>
 
 <h3>🧰♚♛♜♝♞♟ Xadrez ♙♘♗♕♖♔🦾</h3>
 <img src="https://blog.megajogos.com.br/wp-content/uploads/2019/10/banner_xadrez.png" width="1050" title="Chess"/>
@@ -99,14 +99,14 @@ O tipo de problema que pode ser abordado com essa técnica deve possuir três ca
 
 O <i>jogo</i> em si é uma sucessão de <b>estados distintos, reconhecíveis e identificáveis</b>.</li> 
 
-<li>Além de estados, esse tipo de problema também se caracteriza por ter “<b>operações</b>” conhecidas que <b>ocasionam as mudanças de estado</b>. Nos jogos de tabuleiro, por exemplo, as operações são as movimentações possíveis das peças, impostas pelas regras do jogo.</li>
+<li>Além de estados, esse tipo de problema também se caracteriza por ter “<b>operações</b>” conhecidas que <em>ocasionam as mudanças de estado</em>. Nos jogos de tabuleiro, por exemplo, as operações são as movimentações possíveis das peças, impostas pelas regras do jogo.</li>
 
 <li>A terceira condição que deve estar presente é haver um "<b>estado inicial</b>" e um ou mais "<b>estados finais</b>" a serem atingidos. Nos jogos de tabuleiro a situação inicial é a posição das peças antes do início do jogo e a situação final é um estado que caracterize o encerramento do jogo, quer com a vitória de algum dos oponentes, quer com o empate.</li>
 </ol>
 
 Em um jogo de xadrez isso pode ser caracterizado tanto por um “cheque mate” (vitória) quanto por um “afogamento do rei (empate)”. Naturalmente existem muitas configurações de “cheque mate”, mas o importante é que esse estado pode ser caracterizado e reconhecido. Além de jogos de tabuleiro muitos outros problemas possuem essas características. 
 
-Uma <em>classe</em> importante deles, que constituem uma das principais aplicações práticas para as técnicas que estudaremos a seguir, são os problemas de <b>roteamento</b> em geral.
+Uma <em>classe importante</em> deles, que constituem uma das principais aplicações práticas para as técnicas que estudaremos a seguir, são os problemas de <em>roteamento</em> em geral.
 
 <blockquote>Os <b>Sistemas de Produção</b> se caracterizam como sendo possuidores de uma <b>base de estados, um conjunto de operadores e uma estratégia de controle</b>.</blockquote>
 
@@ -116,10 +116,10 @@ Os <b>operadores</b> executam <em>transformações na base de estados</em>, ou s
 
 Se pudermos escolher entre diversos operadores em uma determinada situação, então precisamos de uma <b>estratégia de controle</b>.
 
-<b>O sistema basicamente computa:</b>
+<h4>O sistema basicamente computa:</h4>
 <pre><b>Estado &larr; estado inicial</b></pre>
 
-<b>Enquanto não for satisfeita uma condição de término: Selecione um operador R</b>
+<h4>Enquanto não for satisfeita uma condição de término: Selecione um operador R</h4>
 <pre><b>Novo estado &larr; R (estado atual)</b></pre>
 
 A condição de término é alcançada se foi atingido um estado final, se não há mais operadores aplicáveis ao estado atual ou se não há mais recursos computacionais.</p>
