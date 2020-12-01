@@ -1,4 +1,4 @@
-# Python for full AI programming 📗🐍🌳🧠🔀🧬🤖👤📈
+# Python for full AI development 📗🐍🌳🧠🔀🧬🤖👤📈
 <p>It's a repository of full AI (Artificial Intelligence) programming using the Python language.</p>
 <blockquote><b>Obs</b>: Recomendo repetir as mesmas atividades, fazer os exercícios e executar os códigos na sua própria máquina. Além disso, esse é um repositório somente focado em IA, caso precise aprender a Linguagem de Programação Python e os seus paradigmas acesse o link abaixo para o repositório de programação Python.</blockquote><br>
 <img src="https://www.isktechnologies.com/img/blog/python-for-ai-mi-banner.jpg" width="1070"/>
