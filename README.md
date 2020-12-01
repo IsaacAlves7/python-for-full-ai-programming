@@ -141,12 +141,12 @@ Primeiramente, é preciso arrumar uma representação para o problema, pois some
 
 As operações possíveis de realizar com os jarros constituem as arestas do grafo e, para esse caso, podem ser assim listadas e nomeadas:
 <ul>
- <li>R1 – encher o jarro A
- <li>R2 – encher o jarro B
- <li>R3 – esvaziar o jarro A
- <li>R4 – esvaziar o jarro B
- <li>R5 – passar a água do jarro A para o jarro B
- <li>R6 – passar a água do jarro B para o jarro A
+  <li><b>R1</b> – encher o jarro A</li>
+  <li><b>R2</b> – encher o jarro B</li>
+  <li><b>R3</b> – esvaziar o jarro A</li>
+  <li><b>R4</b> – esvaziar o jarro B</li>
+  <li><b>R5</b> – passar a água do jarro A para o jarro B</li>
+  <li><b>R6</b> – passar a água do jarro B para o jarro A</li>
 </ul>
 Inicialmente os jarros estão vazios, assim, o estado inicial é (0, 0). O que objetivamos é colocar 2 litros no jarro A, portanto, nos interessa alcançar um estado (2, x), onde x é um valor qualquer. Um grafo, com algumas das possíveis transições, teria a forma da figura.</p>
 
