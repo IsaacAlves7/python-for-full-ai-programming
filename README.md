@@ -107,7 +107,7 @@ Em um jogo de xadrez isso pode ser caracterizado tanto por um “cheque mate” 
 
 Uma <em>classe</em> importante deles, que constituem uma das principais aplicações práticas para as técnicas que estudaremos a seguir, são os problemas de <b>roteamento</b> em geral.
 
-Os <b>Sistemas de Produção</b> se caracterizam como sendo possuidores de uma <b>base de estados, um conjunto de operadores e uma estratégia de controle</b>.
+<blockquote>Os <b>Sistemas de Produção</b> se caracterizam como sendo possuidores de uma <b>base de estados, um conjunto de operadores e uma estratégia de controle</b>.</blockquote>
 
 A <b>bases de estados</b> é o conjunto de configurações que o problema pode assumir.
 
