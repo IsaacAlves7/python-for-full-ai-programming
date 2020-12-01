@@ -1,5 +1,4 @@
 # Python full AI programming 📗🐍🌳🧠🔀🧬🤖👤📈
-
 <p>It's a repository of full AI (Artificial Intelligence) programming using the Python language.</p>
 <blockquote><b>Obs</b>: Recomendo repetir as mesmas atividades, fazer os exercícios e executar os códigos na sua própria máquina. Além disso, esse é um repositório somente focado em IA, caso precise aprender a Linguagem de Programação Python e os seus paradigmas acesse o link abaixo para o repositório de programação Python.</blockquote><br>
 <img src="https://www.isktechnologies.com/img/blog/python-for-ai-mi-banner.jpg" width="1070"/>
@@ -113,7 +112,7 @@ Uma <em>classe</em> importante deles, que constituem uma das principais aplicaç
 
 A <b>bases de estados</b> é o conjunto de configurações que o problema pode assumir.
 
-Os <b>operadores</b> executam <b>transformações na base de estados</b>, ou seja, <b>levam o problema de um estado a outro</b>. Resolver o problema é, na verdade, determinar a <b>sequência de operadores</b> que deve ser aplicada a partir do <b>estado inicial</b>, de forma a atingir <b>um dos estados finais</b>. 
+Os <b>operadores</b> executam <em>transformações na base de estados</em>, ou seja, <em>levam o problema de um estado a outro</em>. Resolver o problema é, na verdade, determinar a <em>sequência de operadores</em> que deve ser aplicada a partir do <em>estado inicial</em>, de forma a atingir <em>um dos estados finais</em>. 
 
 Se pudermos escolher entre diversos operadores em uma determinada situação, então precisamos de uma <b>estratégia de controle</b>.
 
@@ -151,51 +150,106 @@ As operações possíveis de realizar com os jarros constituem as arestas do gra
 </ul>
 Inicialmente os jarros estão vazios, assim, o estado inicial é (0, 0). O que objetivamos é colocar 2 litros no jarro A, portanto, nos interessa alcançar um estado (2, x), onde x é um valor qualquer. Um grafo, com algumas das possíveis transições, teria a forma da figura.</p>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 <h2>🧠 Modelos Conexionistas (Redes Neurais) 💫</h2>
 <img src="https://www.pollux.com.br/index/wp-content/uploads/2019/02/redes-neurais-2.jpg" width="1040"/>
 <p></p>
-
 ### Imagem ilustrando um exemplo modelo de rede neural
 <img src="https://miro.medium.com/max/3000/1*BIpRgx5FsEMhr1k2EqBKFg.gif" width="1070"/>
-
 <h2>🔀 Sistemas Nebulosos (Lógica Fuzzy) 💹</h2>
 <img src="https://emgotas.files.wordpress.com/2016/11/lc3b3gica-fuzzy2.jpg?w=840" width="1070"/>
 <p></p>
-
 <h2>🧬 Computação Evolucionária (Algoritmos Genéticos) 👨‍👩‍👦</h2>
 <img src="https://www.genengnews.com/wp-content/uploads/2019/05/GettyImages-1084312676.jpg" width="1070"/>
 <p></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-->
