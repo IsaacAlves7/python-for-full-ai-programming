@@ -93,7 +93,7 @@ O tipo de problema que pode ser abordado com essa técnica deve possuir três ca
 <li>A primeira delas é que deve ser possível <em>representar e reconhecer as situações estáticas do problema</em>, que podem ser chamadas de “<b>estados</b>”. Ou seja, são problemas caracterizados por <em>evoluírem em uma sequência de estados distintos e identificáveis</em>.</p>
 
 <p>Por exemplo, os problemas que envolvem <em>jogos de tabuleiro</em>, em geral possuem essa característica. Em um jogo de <b>xadrez</b>, damas ou gamão, a situação do tabuleiro após cada lance de um dos adversários caracteriza <b>um “estado”</b> do jogo. 
-
+<br>&nbsp;
 <img src="https://blog.megajogos.com.br/wp-content/uploads/2019/10/banner_xadrez.png" width="1050" title="Chess"/>
 
 O <i>jogo</i> em si é uma sucessão de <b>estados distintos, reconhecíveis e identificáveis</b>.</li> 
