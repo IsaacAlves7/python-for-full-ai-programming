@@ -125,7 +125,7 @@ A condição de término é alcançada se foi atingido um estado final, se não 
 
 <h3>🧰🅰️➡️ Representação dos Sistemas de Produção 🅱️➡️🦾</h3>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/100785707-cc235500-33ef-11eb-88f5-0de1f2fbd3c8.jpg"/></div>
-<p align="center"><em><strong>Grafo</strong></em></p>
+<p align="center"><em><strong>figura 1.1:</strong> Grafo</em></p>
 <blockquote>É possível representar um <i>Sistema de Produção</i> através de <b>Grafos de Estado</b>.</blockquote>
 <p>Os <b>grafos</b> são constituídos por <b>conjuntos de vértices e de arestas</b>. É possível representar graficamente este conceito. 
 
