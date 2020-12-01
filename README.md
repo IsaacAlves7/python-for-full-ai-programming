@@ -169,7 +169,9 @@ A estratégia consiste em expandir os estados a partir do estado inicial, aplica
 Por causa da volta ao nó pai, este método também é conhecido como <b>backtracking</b>. Agindo desta forma, o algoritmo garante que, caso haja alguma solução, ela será encontrada, já que todos os caminhos serão investigados (a busca é exaustiva). Veja uma ilustração da estratégia no gráfico da figura 1.3.
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/100810014-3fd85880-3416-11eb-9707-9889dc5aa113.jpg"/></div>
 <p align="center"><em><strong>Figura 1.4:</strong> Uma busca em largura.</em></p>
-Neste método, ao invés de escolhermos um operador para ser aplicado em um estado, geramos um novo estado e repetirmos o processo sucessivamente. Assim, o que se faz é investigar todos os operadores que podem ser aplicados àquele nó e gerar todos os filhos possíveis. Veja o gráfico explicativo da estratégia na figura 1.4.</p>
+Neste método, ao invés de escolhermos um operador para ser aplicado em um estado, geramos um novo estado e repetirmos o processo sucessivamente. Assim, o que se faz é investigar todos os operadores que podem ser aplicados àquele nó e gerar todos os filhos possíveis. Veja o gráfico explicativo da estratégia na figura 1.4.
+
+Este método sempre encontra o caminho, caso ele exista. Como expande um nível de cada vez, o método também encontra o caminho mais curto (em número de transições) entre a raiz e o estado final. Entretanto, a quantidade de possibilidades avaliadas é muito grande, o que torna o método computacionalmente intenso.</p>
 
 
 
