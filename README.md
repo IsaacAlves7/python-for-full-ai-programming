@@ -96,7 +96,7 @@ O tipo de problema que pode ser abordado com essa técnica deve possuir três ca
 <h3>♚ ♛ ♜ ♝ ♞ ♟ Xadrez (Chess) ♔ ♕ ♖ ♗ ♘ ♙</h3>
 <img src="https://blog.megajogos.com.br/wp-content/uploads/2019/10/banner_xadrez.png" width="1050" title="Chess"/>
 
-<p>Por exemplo, os problemas que envolvem <strong>jogos de tabuleiro</strong>, em geral possuem essa característica. Em um jogo de xadrez, damas ou gamão, a situação do tabuleiro após cada lance de um dos adversários caracteriza <b>um “estado”</b> do jogo. 
+<p>Por exemplo, os problemas que envolvem <em>jogos de tabuleiro</em>, em geral possuem essa característica. Em um jogo de <b>xadrez</b>, damas ou gamão, a situação do tabuleiro após cada lance de um dos adversários caracteriza <b>um “estado”</b> do jogo. 
 
 O <i>jogo</i> em si é uma sucessão de <b>estados distintos, reconhecíveis e identificáveis</b>.</li> 
 
@@ -132,6 +132,13 @@ A condição de término é alcançada se foi atingido um estado final, se não 
 Os <b>grafos</b> são constituídos por <b>conjuntos de vértices e de arestas</b>. É possível representar graficamente este conceito. 
 
 Por exemplo, um <em>grafo</em> <b>G</b> com <em>vértices</em> <b>V</b> = {a, b, c} e <em>arestas</em> <b>A</b> = ((a, b), (a, c)), pode ser representado graficamente como na figura.</p>
+
+<p>Em um <strong>grafo de estados</strong>, cada vértice representa um estado e cada aresta a aplicação de um operador que causa a mudança de estado.
+  
+Vamos apresentar um exemplo que pode ser representado como um grafo de estados e é conhecido como o problema dos <b>jarros d’água</b>:
+
+Considere dois jarros opacos, nos quais não é possível observar o conteúdo. Um jarro A tem capacidade para 4 litros e um jarro B tem capacidade para 3 litros. Queremos colocar exatamente dois litros de água no jarro A. Para tanto, temos as seguintes operações disponíveis: encher totalmente um dos jarros; esvaziar totalmente um dos jarros; e, passar o conteúdo de um jarro para o outro. 
+</p>
 
 <h2>🧠 Modelos Conexionistas (Redes Neurais) 💫</h2>
 <img src="https://www.pollux.com.br/index/wp-content/uploads/2019/02/redes-neurais-2.jpg" width="1040"/>
