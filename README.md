@@ -164,7 +164,9 @@ Cada estado só deve aparecer uma vez na árvore, de forma que, caso a aplicaç�
 A estratégia consiste em expandir os estados a partir do estado inicial, aplicando qualquer um dos possíveis operadores aplicáveis àquele estado. A escolha do operador pode ser aleatória ou seguir uma sequência arbitrária de testes de possibilidade de aplicação dos operadores. Caso não haja operadores possíveis de aplicar ou caso todos os estados gerados já constem da árvore, o método fracassa. O método obtém sucesso apenas se atinge um estado final.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/100808560-22ee5600-3413-11eb-8ded-c4870cb10fc2.jpg"/></div>
 <p align="center"><em><strong>Figura 1.3:</strong> Uma busca em profundidade com backtracking.</em></p>
+<p>Existe ainda uma alteração que melhora a busca em profundidade. Neste método, quando o algoritmo fracassa em atingir m estado final, de acordo com os critérios do método irrevogável, volta-se para o nó pai e escolhe-se outro operador. Caso não seja possível escolher outro operador para este nó, volta-se mais um nível, repetindo-se o processo até que seja atingido o nó raiz. 
 
+Por causa da volta ao nó pai, este método também é conhecido como <b>backtraking</b>. Agindo desta forma, o algoritmo garante que, caso haja alguma solução, ela será encontrada, já que todos os caminhos serão investigados (a busca é exaustiva). Veja uma ilustração da estratégia no gráfico da figura .</p>
 
 
 
