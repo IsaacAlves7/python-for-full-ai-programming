@@ -151,7 +151,7 @@ As operações possíveis de realizar com os jarros constituem as arestas do gra
 </ul>
 Inicialmente os jarros estão vazios, assim, o estado inicial é (0, 0). O que objetivamos é colocar 2 litros no jarro A, portanto, nos interessa alcançar um estado (2, x), onde x é um valor qualquer. Um grafo, com algumas das possíveis transições, teria a forma da figura.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/100782443-308fe580-33eb-11eb-9846-fd2a0ef91e62.jpg"/></div>
-<em align="center">Um grafo com alguns estados e transições do problema das garrafas.</em>
+<p align="center"><em>Um grafo com alguns estados e transições do problema das garrafas.</em></p>
 
 
 
