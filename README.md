@@ -195,7 +195,7 @@ Este método sempre encontra o caminho, caso ele exista. Como expande um nível 
   <li><strong>ACDE</strong> – custo: 4+7+4 = 15</li>  
   <li><strong>ADE</strong> – custo: 6+4 = 10</li>  
 </ul>
-<p>Uma estratégia possível, embora bastante simplória, é a <b>busca pelo vizinho mais próximo</b> ou <b>busca gulosa</b></p>
+<p>Uma estratégia possível, embora bastante simplória, é a <b>busca pelo vizinho mais próximo</b> ou <b>busca gulosa</b>. Neste caso, escolhemos a cada passo o vizinho ainda não visitado.</p>
 
 
 
