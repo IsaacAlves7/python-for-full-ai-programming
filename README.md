@@ -181,7 +181,7 @@ Este método sempre encontra o caminho, caso ele exista. Como expande um nível 
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/100896919-e3b91700-349d-11eb-9284-7f6798114e16.jpg"/></div>
 <p align="center"><em><strong>figura 1.5:</strong> Uma configuração de grafo com custos</em></p>
 <p>Os problemas de encontrar uma rota de um ponto a outro são uma simplificação do problema mais genérico conhecido como o <b>“problema do caixeiro viajante”</b>. No problema do caixeiro viajante original, temos um conjunto de cidades ligadas por estradas, que possuem um <b>custo</b> de ligação entre elas e se deseja percorrer todas as cidades ao menor custo possível sem repetir nenhuma cidade. A figura exibe uma configuração possível para essa interligação entre cidades, nas quais as cidades são os <b>vértices do grafo</b> e as ligações entre elas são as <b>arestas do grafo</b>.</p>
-<div align="center"><img src="https://i1.wp.com/datalk.me/wp-content/uploads/2019/03/image-1.png?resize=689%2C375&ssl=1"/><img src="https://user-images.githubusercontent.com/61624336/100897899-f5e78500-349e-11eb-8237-b700ba6afacb.png"/></div>
+<div align="center"><img src="https://i1.wp.com/datalk.me/wp-content/uploads/2019/03/image-1.png?resize=689%2C375&ssl=1"/></div>
 
 
 
@@ -258,6 +258,7 @@ Este método sempre encontra o caminho, caso ele exista. Como expande um nível 
 <h2>🧠 Modelos Conexionistas (Redes Neurais) 💫</h2>
 <img src="https://www.pollux.com.br/index/wp-content/uploads/2019/02/redes-neurais-2.jpg" width="1040"/>
 <p></p>🧰♚♛♜♝♞♟ Xadrez ♙♘♗♕♖♔🦾
+<img src="https://user-images.githubusercontent.com/61624336/100897899-f5e78500-349e-11eb-8237-b700ba6afacb.png"/>
 ### Imagem ilustrando um exemplo modelo de rede neural
 <img src="https://miro.medium.com/max/3000/1*BIpRgx5FsEMhr1k2EqBKFg.gif" width="1070"/>
 <h2>🔀 Sistemas Nebulosos (Lógica Fuzzy) 💹</h2>
