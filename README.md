@@ -8,6 +8,7 @@
   <li>AI - Artificial Intelligence</li>
   <li>Graph search strategy at no cost</li>
   <li>Production rules and expert systems</li>
+  <li>Data Science</li>  
   <li>Machine Learning</li>  
   <li>Deep Learning</li>
 </ol>
