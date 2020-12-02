@@ -10,7 +10,7 @@
   <li>Production rules and expert systems</li>
 </ol>
 <hr>
-<h1>🧠 Capítulo 1: AI - Artificial Intelligence 🖥️</h1>
+<h1>Capítulo 1: 🧠 AI - Artificial Intelligence 🖥️</h1>
 <img src="https://www.multimediadesignstudio.com.br/web/images/blog/inteligengia_artificial.jpg"/>
 <p>Apesar de não haver um consenso sobre o que seja exatamente <b>Inteligência Artificial</b>, diferentes autores procuraram definir o termo ao longo do tempo. A seguir listamos algumas dessas definições:</p>
 <blockquote><i>"A automação de atividades que associamos ao pensamento humano, atividades tais como tomadas de decisão , resolução de problemas, aprendizado .." - <b>Bellman</b>, 1978.</blockquote></i>
