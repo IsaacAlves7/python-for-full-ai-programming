@@ -174,8 +174,9 @@ Por causa da volta ao nó pai, este método também é conhecido como <b>backtra
 <p>Neste método, ao invés de escolhermos um operador para ser aplicado em um estado, geramos um novo estado e repetirmos o processo sucessivamente. Assim, o que se faz é investigar todos os operadores que podem ser aplicados àquele nó e gerar todos os filhos possíveis. Veja o gráfico explicativo da estratégia na figura 1.4.
 
 Este método sempre encontra o caminho, caso ele exista. Como expande um nível de cada vez, o método também encontra o caminho mais curto (em número de transições) entre a raiz e o estado final. Entretanto, a quantidade de possibilidades avaliadas é muito grande, o que torna o método computacionalmente intenso.</p>
-
-
+<h2>💵🅰️ Grafos com custo 🅱️💵</h2>
+<p>Em alguns tipos de problemas, o caminho de um estado para o próximo possui um custo associado. Na pratica, todos os problemas importantes de roteamento possuem custos envolvidos. É o caso de rotas de transporte de cargas, rotas de distribuição de energia elétrica, rotas de encaminhamento de ligações telefônicas, etc. 
+</p>
 
 
 
