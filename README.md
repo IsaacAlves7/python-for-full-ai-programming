@@ -208,8 +208,8 @@ Esta estratégia equivale, em algum sentido, à busca irrevogável, na medida qu
 <p align="center"><em><strong>Figura 1.6:</strong> Passo 1.</em></p>
 <p>Após este passo, o custo total de cada caminho é: AB=3, AC=4 e AD=6. Escolhendo o de menor custo total (AB), expandimos um nível.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/100936388-31e70e00-34d0-11eb-9c8d-5663e7fc567b.jpg"/></div>
-<p align="center"><em><strong>Figura 1.6:</strong> Passo 2.</em></p>
-
+<p align="center"><em><strong>Figura 1.7:</strong> Passo 2.</em></p>
+<p>Como o novo nó já aparece na lista, devemos comparar o custo total desta aparição na lista (ABC:3+5=8) com a anterior (AC:=4). Como a anterior possui custo menor, abandonamos esta inserção e, como não há mais caminhos a analisar para este nó (dizemos que ele está fechado), voltamos ao anterior (A) e escolhemos o segundo menor custo dentre os caminhos disponíveis (AC=4).</p>
 
 
 
