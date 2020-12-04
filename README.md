@@ -219,7 +219,7 @@ Assim, o caminho ACB deve ser desprezado. Também o nó D já aparece em outro r
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/100943163-79bf6280-34db-11eb-9c0d-45b64241438c.jpg"/></div>
 <p align="center"><em><strong>Figura 1.9:</strong> Passo 4.</em></p>
 <p>Tanto o nó E como o nó C já aparece na lista. Para o nó C, temos que o caminho ADC tem custo 13 e o caminho AC tem custo 4. Logo, desprezamos C como filho de D.</p>
-<div align="center"><img src="https://user-images.githubusercontent.com/61624336/101106923-f58adf00-35af-11eb-8930-04163ac67749.jpg"/></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/101107170-7d70e900-35b0-11eb-81cf-e0a45d0114f1.jpg"/></div>
 <p align="center"><em><strong>Figura 1.10:</strong> Passo 5.</em></p>
 <p>Já o caminho ACE tem custo 12, enquanto que o caminho ADE tem custo 10. Desprezamos ACE. Logo:</p>
 
