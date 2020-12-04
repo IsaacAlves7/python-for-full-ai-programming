@@ -227,6 +227,7 @@ Agora resta como aberto apenas o nó E. Como ele é terminal, podemos parar o pr
 
 <h1 align="center">Cap 03: 📖 Regras de Produção e Sistemas Especialistas 💼</h1>
 <h2>🧠 Outras formas de representar conhecimento </h2>
+<div align="center"><img src="https://s3.amazonaws.com/ibc-portal/wp-content/uploads/2016/05/22115051/o-que-e-conhecimento.jpg" height="270"/></div>
 <p>Para representar o conhecimento, pelo que acabamos de ver, devemos possuir formas de representar tanto as <em>informações</em>, como os <em>procedimentos</em> (ações). Existem várias formas de representação do conhecimento, tais como <b>Redes Semânticas</b>, <b>Objetos Estruturados</b>, <b>Lógica de Primeira Ordem</b> ou <b>Regras de Produção</b>. A forma que estudaremos nesta aula são os <b>sistemas de Regras de Produção</b>.
 
 Para que possamos compreendê-los, é necessário entender com quais entidades precisamos lidar. Fundamentalmente, podemos falar em duas entidades: os <b>fatos</b> (As verdades ou informações que possuímos sobre um determinado contexto.) e a <b>representação dos conhecimentos</b> (Formalismo simbólico que permite representar e manipular o conhecimento em  um determinado contexto.).</p>
