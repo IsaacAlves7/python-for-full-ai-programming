@@ -241,8 +241,8 @@ A forma de representação mais comum é a <b>linguagem natural</b>. Mas podemos
 <div align="center"><img src="https://www.racoesreis.com.br/wordpress/wp-content/uploads/imagem_do_post-49.jpg" width="1700"/></div>
 <p align="center"><strong>2 - cachorro Thor</strong></p>
 <p>Se tivermos um formalismo para representar que todos os cachorros tem rabo, poderíamos escrever:</p>
-<p>3 -</p><pre></pre>
-
+<p>3 -</p><code>∀x:cachorro(x)⇾tem-rabo(x)</code>
+<p>Usando mecanismos de dedução lógica, poderíamos concluir:</p>
 
 
 
