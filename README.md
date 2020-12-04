@@ -226,10 +226,10 @@ Assim, o caminho ACB deve ser desprezado. Também o nó D já aparece em outro r
 Agora resta como aberto apenas o nó E. Como ele é terminal, podemos parar o processo, pois qualquer caminho dele derivado será maior que o caminho até ele, haja vista que o custo sempre é positivo. O caminho encontrado (ADE) é o caminho ótimo (de menor custo). Para encontrar este caminho, o algoritmo fechou 2 nós fora do caminho ótimo (B e C) e 3 no caminho ótimo (A, D e E).</p>
 
 <h1 align="center">Cap 03: 📖 Regras de Produção e Sistemas Especialistas 💼</h1>
-<h2>Outras formas de representar conhecimento</h2>
-<p>Para representar o conhecimento, pelo que acabamos de ver, devemos possuir formas de representar tanto as informações, como os procedimentos. Existem várias formas de representação do conhecimento, tais como Redes Semânticas, Objetos Estruturados, Lógica de Primeira Ordem ou Regras de Produção. A forma que estudaremos nesta aula são os sistemas de Regras de Produção.
+<h2>🧠 Outras formas de representar conhecimento </h2>
+<p>Para representar o conhecimento, pelo que acabamos de ver, devemos possuir formas de representar tanto as <em>informações</em>, como os <em>procedimentos</em> (ações). Existem várias formas de representação do conhecimento, tais como <b>Redes Semânticas</b>, <b>Objetos Estruturados</b>, <b>Lógica de Primeira Ordem</b> ou <b>Regras de Produção</b>. A forma que estudaremos nesta aula são os <b>sistemas de Regras de Produção</b>.
 
-Para que possamos compreendê-los, é necessário entender com quais entidades precisamos lidar. Fundamentalmente, podemos falar em duas entidades: os fatos e a representação dos conhecimentos.</p>
+Para que possamos compreendê-los, é necessário entender com quais entidades precisamos lidar. Fundamentalmente, podemos falar em duas entidades: os <em>fatos</em> (As verdades ou informações que possuímos sobre um determinado contexto.) e a <em>representação dos conhecimentos</em> (Formalismo simbólico que permite representar e manipular o conhecimento em  um determinado contexto.).</p>
 
 
 
