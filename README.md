@@ -428,6 +428,9 @@ A forma de representação mais comum é a <b>linguagem natural</b>. Mas podemos
 <p></p>
 <h2>🧬 Computação Evolucionária (Algoritmos Genéticos) 👨‍👩‍👦</h2>
 
+<h1>Deep Learning</h1>
+<img src="https://neofeed.com.br/wp-content/uploads/2019/12/inteligencia-artificial-lado-obscuro.jpg" width="1700"/>
+
 <img src="https://www.genengnews.com/wp-content/uploads/2019/05/GettyImages-1084312676.jpg" width="1070"/>
 <p></p>
 -->
