@@ -258,7 +258,7 @@ A forma de representação mais comum é a <b>linguagem natural</b>. Mas podemos
 
 <p>Outra forma de representar o conhecimento é através de regras.
 
-<b>Sistemas baseados em regras</b> foram bastantes populares no início das pesquisas com IA e ainda tem larga utilização para modelar regras de negócio de aplicações.</p>
+<b>Sistemas baseados em regras</b> foram bastantes populares no início das pesquisas com IA e ainda tem larga utilização para modelar regras de negócio de aplicações especializadas em uma determinada área.</p>
 
 
 
