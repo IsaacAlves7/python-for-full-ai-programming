@@ -256,15 +256,17 @@ A forma de representação mais comum é a <b>linguagem natural</b>. Mas podemos
 <h2>📖 Regras de Produção 💼</h2>
 <div align="center"><img src="https://endoscopiaterapeutica.com.br/wp-content/uploads/2018/10/333333333333-2006x760.png" width="1700"/></div>
 
-<p>Outra forma de representar o conhecimento é através de regras.
+<p>Outra forma de representar o conhecimento é através de <em>regras</em>.
 
 <b>Sistemas baseados em regras</b> foram bastantes populares no início das pesquisas com IA e ainda tem larga utilização para modelar regras de negócio de aplicações especializadas em uma determinada área. Tais conhecimentos são conhecidos como <b>Sistemas Especialistas</b>. As regras são uma forma de representação do conhecimento bastante próxima da forma humana de expressá-lo.
 
 Por exemplo, conhecimento como os abaixo expressos, podem ser fácil e naturalmente postos em formas de regras:
 <ul>
   <li>Se a temperatura é maior que 38 graus, o paciente tem febre.</li>
+  <li>Se o paciente tem febre há mais de 3 dias, o paciente tem uma infecção.</li> 
+  <li>Se há tensão na entrada da fonte e não há tensão na saída da fonte, então o transformador está queimado.</li>   
 </ul>
-</p>
+Uma regra é formada por uma <em>premissa simples ou composta</em></p>
 
 
 
@@ -433,7 +435,8 @@ Por exemplo, conhecimento como os abaixo expressos, podem ser fácil e naturalme
 <img src="https://emgotas.files.wordpress.com/2016/11/lc3b3gica-fuzzy2.jpg?w=840" width="1070"/>
 <p></p>
 <h2>🧬 Computação Evolucionária (Algoritmos Genéticos) 👨‍👩‍👦</h2>
-
+<h1>🧠 Machine Learning 🤖</h1>
+<img src="" width="1700"/>
 <h1>🧠 Deep Learning 👤</h1>
 <img src="https://neofeed.com.br/wp-content/uploads/2019/12/inteligencia-artificial-lado-obscuro.jpg" width="1700"/>
 
