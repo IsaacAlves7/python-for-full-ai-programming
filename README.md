@@ -258,7 +258,10 @@ A forma de representação mais comum é a <b>linguagem natural</b>. Mas podemos
 
 <p>Outra forma de representar o conhecimento é através de regras.
 
-<b>Sistemas baseados em regras</b> foram bastantes populares no início das pesquisas com IA e ainda tem larga utilização para modelar regras de negócio de aplicações especializadas em uma determinada área. Tais conhecimentos são conhecidos como <b>Sistemas Especialistas</b>. As regras são uma forma de representação do conhecimento bastante próxima da forma humana de expressá-lo.</p>
+<b>Sistemas baseados em regras</b> foram bastantes populares no início das pesquisas com IA e ainda tem larga utilização para modelar regras de negócio de aplicações especializadas em uma determinada área. Tais conhecimentos são conhecidos como <b>Sistemas Especialistas</b>. As regras são uma forma de representação do conhecimento bastante próxima da forma humana de expressá-lo.
+
+Por exemplo, conhecimento como os abaixo expressos, podem ser fácil e naturalmente postos em formas de regras:
+Se a temperatura</p>
 
 
 
