@@ -254,10 +254,11 @@ A forma de representação mais comum é a <b>linguagem natural</b>. Mas podemos
 <p>Se esta geração tiver uma orientação adequada, poderemos produzir fatos que sejam relevantes em um determinado contexto, ou seja, poderemos encontrar as respostas que objetivamos.</p>
 
 <h2>📖 Regras de Produção 💼</h2>
-<div align="center"><img src="https://www.researchgate.net/profile/Laura_Castro5/publication/279415421/figure/fig16/AS:669521580937226@1536637792518/Architecture-of-an-AI-production-system.ppm" height="370"/></div>
+<div align="center"><img src="https://cryptoid.com.br/wp-content/uploads/2019/09/inteligencia-artificial-direito-1440x564_c.jpghttps://cryptoid.com.br/wp-content/uploads/2019/09/inteligencia-artificial-direito-1440x564_c.jpg" height="370"/></div>
+
 <p>Outra forma de representar o conhecimento é através de regras.
 
-Sistemas baseados em regras foram bastantes populares no início das pesquisas com IA</p>
+<b>Sistemas baseados em regras</b> foram bastantes populares no início das pesquisas com IA</p>
 
 
 
