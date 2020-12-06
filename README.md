@@ -254,7 +254,7 @@ A forma de representação mais comum é a <b>linguagem natural</b>. Mas podemos
 <p>Se esta geração tiver uma orientação adequada, poderemos produzir fatos que sejam relevantes em um determinado contexto, ou seja, poderemos encontrar as respostas que objetivamos.</p>
 
 <h2>📖 Regras de Produção 💼</h2>
-<div align="center"><img src="https://endoscopiaterapeutica.com.br/wp-content/uploads/2018/10/333333333333-2006x760.png" height="1700"/></div>
+<div align="center"><img src="https://endoscopiaterapeutica.com.br/wp-content/uploads/2018/10/333333333333-2006x760.png" width="1700"/></div>
 
 <p>Outra forma de representar o conhecimento é através de regras.
 
