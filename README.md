@@ -266,7 +266,7 @@ Por exemplo, conhecimento como os abaixo expressos, podem ser fácil e naturalme
   <li>Se o paciente tem febre há mais de 3 dias, o paciente tem uma infecção.</li> 
   <li>Se há tensão na entrada da fonte e não há tensão na saída da fonte, então o transformador está queimado.</li>   
 </ul>
-Uma regra é formada por uma <em>premissa simples ou composta</em> (usando operadores lógicos) e uma ou mais conclusões que são acionadas quando as premissas são verdadeiras. As premissas/conclusões são também chamadas de situação/ação ou ainda de antecedente/consequente das regras. Os <b>sistemas baseados em regras</b> usam inferência <b>Modus Pones</b>. Assim, dado que o fato A é verdadeiro e a implicação A®B</p>
+Uma regra é formada por uma <em>premissa simples ou composta</em> (usando operadores lógicos) e uma ou mais conclusões que são acionadas quando as premissas são verdadeiras. As premissas/conclusões são também chamadas de situação/ação ou ainda de antecedente/consequente das regras. Os <b>sistemas baseados em regras</b> usam inferência <b>Modus Pones</b>. Assim, dado que o fato A é verdadeiro e a implicação A®B é verdadeira </p>
 
 
 
