@@ -317,7 +317,7 @@ Uma regra é formada por uma <em>premissa simples ou composta</em> (usando opera
 <div align="center"><em><strong>Figura 2:</strong> Estratégia de busca orientada a objetivos</em></div></br>
 <p>Do primeiro para o segundo passo, o objetivo seria trocado de "bolsa de valores" para "taxa de juros" e iniciar-se-ia a busca por este novo objetivo. Quando ele fosse encontrado (após o acionamento da regra 3), retornar-se-ia à regra abandonada (regra 1) para buscar novamente pelo objetivo original, que seria encontrado após o acionamento da regra 2.
  
-O que acontece quando não é mais possível encontrar regras que gerem o conhecimento objetivado, no esquema de backward chain ou não é mais possível gerar novos conhecimentos no esquema forward chain?
+O que acontece quando não é mais possível encontrar regras que gerem o conhecimento objetivado, no esquema de backward chain ou não é mais possível gerar novos conhecimentos no esquema forward chain? Bem, neste caso ocorre o mesmo que quando se vai a uma consulta médica e somente com as informações relatadas e o seu conhecimento, o médico não é capaz ainda de produzir um diagnóstico. Ele precisa agregar novos conhecimentos vindo de fora do sistema. Em uma consulta isto pode representar outras perguntas ao paciente ou a requisição de exames complementares. Em um sistema especialista montado a partir de regras de produção, a agregação de novos conhecimentos que
 
 
 
