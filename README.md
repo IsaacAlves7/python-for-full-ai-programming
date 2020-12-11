@@ -294,7 +294,7 @@ Uma regra é formada por uma <em>premissa simples ou composta</em> (usando opera
 ### ♟️ Estratégia dirigida a dados 🎲
 <p>Na estratégia dirigida a dados (<b>forward chain</b>), acionam-se todas as regras que possam ser acionadas a partir dos dados (fatos) conhecidos.</p>
 
-### ♟️ Estratégia dirigida a objetivos 🪀
+### ♟️ Estratégia dirigida a objetivos 📉
 <p>Na estratégia dirigida a objetivos (<b>backward chain</b>), aciona-se somente as regras que possuam na conclusão algum dos objetivos que procuramos. Caso a premissa da regra que desejamos acionar seja desconhecida, estabelecemos esta premissa como o novo objetivo e passamos a buscar regras que a contenha na parte da conclusão. Assim, o objetivo original é provisoriamente abandonado e será retomado (através do acionamento da regra abandonada) quando a premissa necessária à obtenção do objetivo original tenha sido encontrada. O procedimento é recorrente, isto é, os objetivos são provisoriamente abandonados tantas vezes quanta se faça necessário, formando uma cadeia de busca para trás (backward chain).</p>
 
 <p>Considere, por exemplo, que temos a seguinte base de conhecimentos:</p>
@@ -311,7 +311,7 @@ Uma regra é formada por uma <em>premissa simples ou composta</em> (usando opera
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/101846230-4d38c580-3b2f-11eb-8dab-cd610df6415a.jpg)
 <div align="center"><em><strong>Figura 1:</strong> Estratégia de busca orientada a dados</em></div>
 
-
+<p>Onde as regras com círculos serão acionadas, porque as premissas assim o permitem, enquanto que as demais serão apenas investigadas. Se a busca for com a abordagem orientada a objetivos, teremos a cadeia de investigação e acionamento de regras da figura 2.</p>
 
 
 
