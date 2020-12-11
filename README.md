@@ -319,7 +319,8 @@ Uma regra é formada por uma <em>premissa simples ou composta</em> (usando opera
  
 O que acontece quando não é mais possível encontrar regras que gerem o conhecimento objetivado, no esquema de backward chain ou não é mais possível gerar novos conhecimentos no esquema forward chain? Bem, neste caso ocorre o mesmo que quando se vai a uma consulta médica e somente com as informações relatadas e o seu conhecimento, o médico não é capaz ainda de produzir um diagnóstico. Ele precisa agregar novos conhecimentos vindo de fora do sistema. Em uma consulta isto pode representar outras perguntas ao paciente ou a requisição de exames complementares. Em um sistema especialista montado a partir de regras de produção, a agregação de novos conhecimentos que não sejam possíveis de deduzir a partir das regras existentes, geralmente se dá através de perguntas que se faz ao usuário sobre valores das variáveis que sejam importantes na cadeia de conhecimento necessária à resolução do problema que se objetiva.</p>
 
-
+## Estratégias de inferência
+<p>A evolução na elaboração de sistemas especialistas com estórias de sucesso levou os projetistas a separar os sistemas em três partes, de forma a facilitar a elaboração de novos sistemas:</p>
 
 
 
