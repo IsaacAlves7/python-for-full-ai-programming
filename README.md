@@ -309,7 +309,7 @@ Uma regra é formada por uma <em>premissa simples ou composta</em> (usando opera
   O que desejamos saber é: "Qual a tendência da bolsa de valores?"</p>
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/101846230-4d38c580-3b2f-11eb-8dab-cd610df6415a.jpg)
-<div align="center"><em><strong>Figura 1:</strong> Estratégia de busca orientada a dados</em></div>
+<div align="center"><em><strong>Figura 1:</strong> Estratégia de busca orientada a dados</em></div></br>
 
 <p>Onde as regras com círculos serão acionadas, porque as premissas assim o permitem, enquanto que as demais serão apenas investigadas. Se a busca for com a abordagem orientada a objetivos, teremos a cadeia de investigação e acionamento de regras da figura 2.</p>
 
