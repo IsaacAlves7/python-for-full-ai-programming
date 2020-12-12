@@ -360,7 +360,14 @@ Tais ambientes, denominados de Shells de Sistemas Especialistas, permitem que o 
 <li>A terceira regra leva a: CF(D) + CF(E) - CF(D) * CF(E) = 0,567 + 0,9 - 0,567 * 0,9 =  1,467 - 0,51 = 0,957 * 0.4 = 0,383 = CF(F)</li>
   <li>A quarta regra não será acionada porque CF(F) = 0,383 < 0,50</li>
 </ol>
+<p>Quando diferentes regras levam a diferentes graus de confiança para uma mesma variável, em geral é também aplicado o cálculo da disjunção para estes dois valores, como no caso do operador OU. Assim, para o exemplo acima, caso tivéssemos uma regra que fosse:
 
+Se B então F (confiabilidade 90%)
+Teríamos: CF(B) * 0,90 = 0,63 * 0,90 = 0,567 = CF(F)
+Como a CF(F) anterior era 0,383, a nova CF(F) = 0,567 + 0,383 - 0,567 * 0,383 = 0,95 - 0,217 = 0,733 = CF(F)</p>
+<p>Alguns sistemas tratam as operações com fatores de confiança de uma forma alternativa, utilizando funções de máximo e mínimo. Assim as operações de conjunção têm seu fator de confiança resultante calculado como o mínimo entre os valores de confiança das diversas premissas. Já a operação de disjunção leva a um fator de confiança igual ao máximo dos fatores das premissas envolvidas. A operação de implicação, nesta forma de cálculo, geralmente também é feita através do produto entre o fator de confiança resultante da premissa e o fator de confiança atribuído à implicação. Se fosse realizado este tipo de cálculo no exemplo acima, a regra 2 levaria a um grau de confiança para D de: CF(D) = Min (0,63 , 0,9) * 1 = 0,63 = CF(D). Já a regra 3 levaria a: CF(F) = Max (0,63 , 0,9) * 0,4 = 0,9 * 0,4 = 0,36 = CF(F). 
+
+Em qualquer caso, a atribuição dos fatores de confiança relativos às implicações é de responsabilidade do especialista que definiu a regra e, provavelmente, é oriundo da experiência na aplicação do conhecimento formal aprendido em casos de uso do passado.</p>
 
 
 
