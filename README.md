@@ -377,7 +377,7 @@ Em qualquer caso, a atribuição dos fatores de confiança relativos às implica
 <img src="https://user-images.githubusercontent.com/61624336/101990623-a49d7980-3c86-11eb-8208-0eddbb6a00fc.jpg"/>
 <p>Para este caso, na função fuzzy, pessoas com altura menor que 1,70m possuem grau de pertinência 0 em relação ao conjunto de pessoas altas, ou seja, não são definitivamente altas. Pessoas com altura maior que 1,90m possuem grau de pertinência 1 em relação ao conjunto de pessoas altas, ou seja, são definitivamente altas. Já pessoas com altura entre 1,70m e 1,90m possuem algum grau de pertinência (0< µ <1) ao conjunto de pessoas altas. Outro exemplo está na figura.</p>
 
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/101994179-1aadda80-3c9f-11eb-979e-c41026443991.jpg)
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/101994207-6a8ca180-3c9f-11eb-9b82-5e8d47ac5e90.jpg)
 
 
 
