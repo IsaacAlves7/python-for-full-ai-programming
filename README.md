@@ -334,7 +334,14 @@ Tais ambientes, denominados de Shells de Sistemas Especialistas, permitem que o 
   <li>Entretanto, implementar cálculos estatísticos a partir dos princípios Bayesianos de probabilidade, torna os sistemas especialistas difíceis de especificar, na medida em que tratamentos rigorosamente matemáticos de probabilidade utilizam informações nem sempre disponíveis ou simplificações que não são claramente justificáveis em aplicações práticas. Assim, foram construídas alternativas que também lidam com confiabilidade das afirmativas, embora em uma base menos rigorosa e ligada basicamente à teoria dos conjuntos.</li>
   <li>Na maioria dos sistemas, para cada afirmativa é possível usar um fator de confiança. Este fator é um número entre 0% e 100% que está relacionado à expectativa de que aquela afirmativa seja verdadeira. A partir destes valores, se estabelece um limite (em geral 50%, mas que frequentemente pode ser mudado nas shells), para que as afirmativas sejam consideradas verdadeiras ou falsas. Assim, se temos uma variável Tempo que possui o valor Bom com um grau de confiança 55%, a regra: Se Tempo = Bom então...., será ativada assim que seja examinada, dado que o fator de confiança do valor Bom é maior que 50%. Caso o fator de confiança fosse 43%, a regra não seria ativada, pois o valor é menor que 50% e a premissa seria considerada Falsa.</li>
 </ol>
-
+<p>Os cálculos com os fatores de confiança envolvem os operadores de implicação (ENTÃO), conjunção (E) e disjunção (OU), da seguinte forma:</p>
+<table>
+  <tr>
+    <td>Para operações de implicação</td>
+    <td>Para operações de conjunção</td>
+    <td>Para operações de disjunção</td>
+  </tr>
+</table>
 
 
 
