@@ -330,43 +330,8 @@ Tais ambientes, denominados de Shells de Sistemas Especialistas, permitem que o 
 
 ## 🤔 Lidando com incertezas 🤨
 <ol>
-  <li>Muitas das decisões que tomamos, são baseadas em algum cálculo da probabilidade de acerto, dadas as incertezas sobre os fatos conhecidos.</li>
+  <li>Muitas das decisões que tomamos, são baseadas em algum cálculo da probabilidade de acerto, dadas as incertezas sobre os fatos conhecidos. Assim, um médico é capaz de diagnosticar mesmo sem ter certeza sobre os sintomas relatados pelo paciente, ou das taxas reportadas pelos exames. Da mesma forma, um analista financeiro é capaz de tomar decisões com boas perspectivasde acerto, mesmo diante das incertezas e conflitos dos indicadores do mercado financeiro. Esta capacidade inata do ser humano, está associada a algum tipo de cálculo de probabilidades.</li>
 </ol>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
