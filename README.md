@@ -373,7 +373,7 @@ Em qualquer caso, a atribuição dos fatores de confiança relativos às implica
 # Cap 04: 🔀 Lógica Nebulosa (Fuzzy) e Sistemas baseados em regras Fuzzy 💹
 ## 🔀 Conjuntos Nebulosos 🌁
 <p>Um <b>conjunto nebuloso</b>, também chamado de <b>conjunto fuzzy</b>, é uma função que permite a entrada de um valor escalar e fornece como saída um número entre zero e um, que representa o grau de pertinência (µ) da entrada ao conjunto fuzzy. Por exemplo, podemos definir o conjunto de pessoas altas com dois diferentes tipos de função ilustrados na figura.</p>
-
+<div align="center"><em><strong>Conjunto crisp e conjunto fuzzy</strong></em></div></br>
 
 
 
