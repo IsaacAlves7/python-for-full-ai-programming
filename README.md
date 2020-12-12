@@ -5,7 +5,7 @@
 
 <h2>Introduction - Overview about the Python AI 🐍🌳🧠🔀🧬🤖👤📈</h2>
 <ol>
-  <li>AI - Artificial Intelligence</li>
+  <li><a href=".cap1">AI - Artificial Intelligence</a></li>
   <li>Graph search strategy at no cost</li>
   <li>Production Rules and Expert Systems</li>
   <li>Data Science</li>  
@@ -13,7 +13,7 @@
   <li>Deep Learning</li>
 </ol>
 <hr>
-<h1 align="center">Cap 01: 🧠 AI - Artificial Intelligence 🖥️</h1>
+<h1 align="center" class="cap1">Cap 01: 🧠 AI - Artificial Intelligence 🖥️</h1>
 <img src="https://www.multimediadesignstudio.com.br/web/images/blog/inteligengia_artificial.jpg"/>
 <p>Apesar de não haver um consenso sobre o que seja exatamente <b>Inteligência Artificial</b>, diferentes autores procuraram definir o termo ao longo do tempo. A seguir listamos algumas dessas definições:</p>
 <blockquote><i>"A automação de atividades que associamos ao pensamento humano, atividades tais como tomadas de decisão , resolução de problemas, aprendizado .." - <b>Bellman</b>, 1978.</blockquote></i>
