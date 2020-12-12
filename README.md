@@ -7,7 +7,8 @@
 <ol>
   <li><a href="https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-01--ai---artificial-intelligence-%EF%B8%8F">AI - Artificial Intelligence</a></li>
   <li><a href="https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-02--descri%C3%A7%C3%A3o-das-estrat%C3%A9gias-de-busca-em-profundidade-">Graph search strategy at no cost</a></li>
-  <li><a href="https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-03--regras-de-produ%C3%A7%C3%A3o-e-sistemas-especialistas-">Production Rules and Expert Systems</a></li>
+  <li><a href="https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-03--regras-de-produ%C3%A7%C3%A3o-e-sistemas-especialistas-">Nebolous Logic (Fuzzy) and Systems baseads in Fuzzy rules</a></li>
+  <li><a href="">Production Rules and Expert Systems</a></li>
   <li>Data Science</li>  
   <li>Machine Learning</li>  
   <li>Deep Learning</li>
