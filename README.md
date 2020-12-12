@@ -369,7 +369,7 @@ Como a CF(F) anterior era 0,383, a nova CF(F) = 0,567 + 0,383 - 0,567 * 0,383 = 
 
 Em qualquer caso, a atribuição dos fatores de confiança relativos às implicações é de responsabilidade do especialista que definiu a regra e, provavelmente, é oriundo da experiência na aplicação do conhecimento formal aprendido em casos de uso do passado.</p>
 
-# Lógica Nebulosa (Fuzzy) e Sistemas baseados em regras Fuzzy
+## Cap 04: 🔀 Lógica Nebulosa (Fuzzy) e Sistemas baseados em regras Fuzzy 💹
 
 
 
