@@ -381,7 +381,7 @@ Em qualquer caso, a atribuição dos fatores de confiança relativos às implica
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/101994207-6a8ca180-3c9f-11eb-9b82-5e8d47ac5e90.jpg)
 
-
+<p>Para calcular o grau de pertinência de uma variável a um conjunto fuzzy, pode-se utilizar qualquer função que associe o domínio da variável que se deseja fuzzificar com a imagem do intervalo [0,1] correspondente ao grau de pertinência da variável do domínio ao conjunto modelado pela função fuzzy. O formato das funções de pertinência pode variar bastante. Algumas das principais funções utilizadas na literatura são:</p>
 
 
 
