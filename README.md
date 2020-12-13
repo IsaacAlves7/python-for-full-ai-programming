@@ -442,7 +442,7 @@ Para a União e a interseção, existem diferentes formas, propostas por diferen
 </ul>
 <p>Para modelar o calculo da influência dos quantificadores de intensificação nos conjuntos Fuzzy originais, podemos usar potências inteiras. Ou seja, µintensificador de A = (µA)ⁿ. Desta forma, para diferentes valores de n poderíamos modelar diferentes quantificadores de intensificação, conforme mostrado na figura.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102014842-dff78100-3d36-11eb-9535-5de90e8b9c2f.jpg"/></div>
-
+<p>Por outro lado, para calcular a influência dos quantificadores de atenuação nos conjuntos Fuzzy, podemos usar potências fracionárias. Ou seja, µatenuador de A = (µA)ⁿ     . Assim sendo, para diferentes valores de n poderíamos modelar diferentes quantificadores de atenuação, conforme mostrado na figura.</p>
 
 
 
