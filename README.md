@@ -63,6 +63,9 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 </ul>
 
 <h3>🧠 Modelos Conexionistas (Redes Neurais)</h3>
+
+[![Probot](https://img.shields.io/badge/-See-blue?style=for-the-badge&logo=Probot&logoColor=white)](https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-04--l%C3%B3gica-nebulosa-fuzzy-e-sistemas-baseados-em-regras-fuzzy-)
+
 <ul>
   <li>Lidam com <b>conhecimento não simbolicamente representado</b>.</li>
   <li>Levemente <b>inspirados no comportamento do cérebro e seus neurônios</b>.</li>  
