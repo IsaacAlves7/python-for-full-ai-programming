@@ -527,7 +527,7 @@ temos uma premissa com MIN(0,76; 0,30) = 0,30. Logo, o gráfico da variável de 
 Se DISTÂNCIA = medium e ÂNGULO = neg_big</br>
 Então POTÊNCIA = pos_medium</br>
 temos o grau de pertinência da premissa como MIN(0,76; 0,70) = 0,70. Assim o gráfico da variável de saída terá a forma da figura.</p>
-
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/102026364-2e7b3e80-3d7c-11eb-8444-077c299b6bdf.jpg"/></div>
 
 
 
