@@ -488,7 +488,7 @@ O valor de saída z é calculado como: z = (MC1 . µC1 + MC2 . µC2) / (µC1 + �
 ### 📚 Exemplos de aplicação 📈
 <p><b>Sistemas fuzzy</b> são muito utilizados em aplicações de controle. Algumas destas aplicações, podem ser encontradas em uma ferramenta que possui uma versão de demonstração chamada <b>FuzzyTech</b>. Um destes exemplos é o controle de um guindaste que se movimenta em uma dimensão linear e deve posicionar uma determinada carga em uma plataforma. O controle fuzzy envolve o cálculo da potência a ser aplicada ao motor (positiva ou negativa para movimentar o guindaste nos dois sentidos de direção), a partir das informações de ângulo (em graus) que a carga faz com o eixo vertical e distância (em jardas) que a mesma se encontra da plataforma. A figura ilustra o sistema que se deseja controlar.</p>
 <blockquote>💡 Dica: Esta figura e as figuras seguintes foram retiradas do aplicativo <a href="https://www.fuzzytech.com/">FuzzyTech</a>.</blockquote>
-
+<div align="center"><img src=""/></div>
 
 
 
