@@ -64,7 +64,7 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 
 <h3>🧠 Modelos Conexionistas (Redes Neurais)</h3>
 
-[![Probot](https://img.shields.io/badge/-See-blue?style=for-the-badge&logo=Probot&logoColor=white)](https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-04--l%C3%B3gica-nebulosa-fuzzy-e-sistemas-baseados-em-regras-fuzzy-)
+
 
 <ul>
   <li>Lidam com <b>conhecimento não simbolicamente representado</b>.</li>
@@ -77,6 +77,9 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 </ul>
 
 <h3>🔀 Sistemas Nebulosos (Lógica Fuzzy)</h3>
+
+[![Probot](https://img.shields.io/badge/-See-blue?style=for-the-badge&logo=Probot&logoColor=white)](https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-04--l%C3%B3gica-nebulosa-fuzzy-e-sistemas-baseados-em-regras-fuzzy-)
+
 <ul>
   <li>Modelam os <b>modos imprecisos do raciocínio aproximado que influenciam na habilidade humana de tomar decisões</b>.</li>
   <li>Realizam o <b>raciocínio aproximado, com proposições imprecisas, descritas em linguagem natural usando a teoria de conjuntos nebulosos como ferramenta para convertê-las em formato numérico.</b></li>  
