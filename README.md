@@ -490,7 +490,7 @@ O valor de saída z é calculado como: z = (MC1 . µC1 + MC2 . µC2) / (µC1 + �
 <blockquote>💡 Dica: Esta figura e as figuras seguintes foram retiradas do aplicativo <a href="https://www.fuzzytech.com/">FuzzyTech</a>.</blockquote>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102020026-68851a00-3d55-11eb-8714-254d767277b5.jpg"/></div>
 <p>A variável de entrada ângulo é modelada pelos valores lingüísticos pos-big, pos-small, zero, neg-small e neg-big. Seu universo do discurso é dado na figura.</p>
-<div align="center"><img src=""/></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/102020222-7b4c1e80-3d56-11eb-96cc-f9d416fe2982.jpg"/></div>
 
 
 
