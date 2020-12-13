@@ -480,6 +480,7 @@ SE <b>peso é gordo E idade é meia idade</b> ENTÃO <b>risco é alto</b>.</p>
    <li><b>Centro de área:</b> Calcula o centro de gravidade da área do conjunto e usa o valor deste ponto (figura).</br>
   <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102018118-f78c3500-3d49-11eb-8784-116e6ab5f802.jpg"/></div>
   Um problema é que o centro da figura é difícil de calcular se o universo do discurso não for discreto ou se as funções fuzzy forem complexas.</li>
+  <li><b>Média dos máximos</b></li>
 </ul>
 
 
