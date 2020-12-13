@@ -492,7 +492,7 @@ O valor de saída z é calculado como: z = (MC1 . µC1 + MC2 . µC2) / (µC1 + �
 <p>A variável de entrada ângulo é modelada pelos valores linguísticos pos-big, pos-small, zero, neg-small e neg-big. Seu universo do discurso é dado na figura.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102020222-7b4c1e80-3d56-11eb-96cc-f9d416fe2982.jpg"/></div>
 <p>A variável de entrada distância é modelada pelos valores linguísticos neg-close, zero, close, medium e far. Seu universo do discurso é dado na figura.</div>
-
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/102021611-ac7d1c80-3d5f-11eb-93b5-9b03844a6977.jpg"/></div>
 
 
 
