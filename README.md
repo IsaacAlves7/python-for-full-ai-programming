@@ -440,7 +440,7 @@ Para a União e a interseção, existem diferentes formas, propostas por diferen
   <li><b>Aproximador:</b> em torno de, por volta de, aproximadamente.</li>
   <li><b>Restritivo:</b> no máximo, a partir de, não maior que.</li>  
 </ul>
-<p>Para modelar o calculo da influência dos quantificadores de intensificação nos conjuntos Fuzzy originais, podemos usar potências inteiras. Ou seja, µintensificador de A = (µ  )  . Desta forma, para diferentes valores de n poderíamos modelar diferentes quantificadores de intensificação, conforme mostrado na figura.</p>
+<p>Para modelar o calculo da influência dos quantificadores de intensificação nos conjuntos Fuzzy originais, podemos usar potências inteiras. Ou seja, µintensificador de A = (µA)ⁿ. Desta forma, para diferentes valores de n poderíamos modelar diferentes quantificadores de intensificação, conforme mostrado na figura.</p>
 
 
 
