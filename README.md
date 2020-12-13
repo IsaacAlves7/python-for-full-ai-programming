@@ -471,10 +471,10 @@ SE <b>peso é gordo E idade é meia idade</b> ENTÃO <b>risco é alto</b>.</p>
 <blockquote>💡 Dica: Temos o conjunto Fuzzy resultante ilustrado na figura.</blockquote>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102017493-040e8e80-3d46-11eb-9120-9010efc17c5f.jpg"/></div>
 
-## 📈 Defuzzificação 🔢
-<p>Um sistema Fuzzy possui entrada(s) escalar(es) e deve ser capaz de produzir uma saída também escalar. Após serem realizadas as inferências com as regras e após se haver determinado o conjunto Fuzzy resultante (conjunto Fuzzy de saída), deve-se encontrar um valor numérico (escalar) para a saída. A este processo chama-se <b>Defuzzificação</b> do conjunto de saída.
+## 📈 Defuzzyficação 🔢
+<p>Um sistema Fuzzy possui entrada(s) escalar(es) e deve ser capaz de produzir uma saída também escalar. Após serem realizadas as inferências com as regras e após se haver determinado o conjunto Fuzzy resultante (conjunto Fuzzy de saída), deve-se encontrar um valor numérico (escalar) para a saída. A este processo chama-se <b>Defuzzyficação</b> do conjunto de saída.
 
-## 📚 Métodos de Defuzzificação 📈
+## 📚 Métodos de Defuzzyficação 📈
 <p>Existem métodos propostos por diversos autores. Dois dos mais usados são:</p>
 <ul>
    <li><b>Centro de área:</b> Calcula o centro de gravidade da área do conjunto e usa o valor deste ponto (figura).</br>
