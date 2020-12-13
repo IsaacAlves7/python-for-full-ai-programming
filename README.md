@@ -10,6 +10,7 @@
   <li><a href="https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-03--regras-de-produ%C3%A7%C3%A3o-e-sistemas-especialistas-">📖 Production Rules and Expert Systems 💼</a></li>
   <li><a href="https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-04--l%C3%B3gica-nebulosa-fuzzy-e-sistemas-baseados-em-regras-fuzzy-">🔀 Nebulous Logic (Fuzzy) and Systems based in Fuzzy rules 💹</a></li>
   <li><a href="https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-05--fuzzy-system-building-">🔀 Fuzzy system building 🧱</a></li>
+  <li>Python Language and R Project</li>  
   <li>Data Science</li>  
   <li>Machine Learning</li>  
   <li>Deep Learning</li>
