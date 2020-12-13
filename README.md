@@ -536,7 +536,7 @@ temos o grau de pertinência da premissa como MIN(0,76; 0,70) = 0,70. Assim o gr
 <p>Finalmente, para que possamos encontrar um valor de saída para a potência (defuzzificação) podemos utilizar vários métodos. Achar o centro de massa da figura resultante é um deles (difícil de calcular). Outro método, chamado Média dos Máximos, calcula a média dos valores típicos das funções ativadas (valores de máximo) ponderados pelos graus de pertinência com que estes conjuntos foram ativados. Assim, para o caso temos o indicado na figura.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102026753-7307d980-3d7e-11eb-80e6-6df0f31c8249.jpg"/></div>
 <p>O valor da variável de saída potência, para este instante, dados os valores das variáveis de entrada (12 jardas e –45 graus) e as regras citadas, seria portanto (observe que os valores de máximo de cada conjunto, usados no cálculo da média dos máximos, são os indicados pelas setas na figura anterior):
-&nbsp;
+</br>
 Média = (10 x 0,7 + 23,5 x 0,3) / (0,7 + 0,3) = 14,05</br>
 </br>
 Ou seja, para uma distância de 12 jardas e um ângulo de -45 graus, o controle Fuzzy produz como saída uma potência de 14,05 KW a ser aplicada ao motor do guindaste. Esse valor seria aplicado na planta geraria uma alteração da distância e do ângulo da carga, o que realimentaria o controle fuzzy na próxima iteração.</p>
