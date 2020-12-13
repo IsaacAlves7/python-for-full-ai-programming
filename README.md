@@ -541,7 +541,7 @@ Média = (10 x 0,7 + 23,5 x 0,3) / (0,7 + 0,3) = 14,05</br>
 </br>
 Ou seja, para uma distância de 12 jardas e um ângulo de -45 graus, o controle Fuzzy produz como saída uma potência de 14,05 KW a ser aplicada ao motor do guindaste. Esse valor seria aplicado na planta geraria uma alteração da distância e do ângulo da carga, o que realimentaria o controle fuzzy na próxima iteração.</p>
 <div align="center"><h1>Cap 06: 👨‍⚕️ Evolved Systems and Genetic Algorithms 🧬</h1></div>
-<img src="https://miro.medium.com/max/3000/1*BIpRgx5FsEMhr1k2EqBKFg.gif" width="1070"/>
+
 <h2>😵 O problema de otimização 🤯</h2>
 <p>Um <b>problema de otimização</b> consiste em encontrar, entre as muitas soluções possíveis para um problema, aquela ou aquelas que representam a melhor solução. Naturalmente o conceito de melhor se aplica a algum ou a alguns critérios, tais como o custo financeiro, o tempo, a distância, a segurança ou a qualquer outro aspecto que se deseje otimizar.
  
