@@ -532,8 +532,8 @@ temos o grau de pertinência da premissa como MIN(0,76; 0,70) = 0,70. Assim o gr
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102026580-6c2c9700-3d7d-11eb-9a8b-37153cfd8d0f.jpg"/></div>
 <p>Como as três regras foram acionadas, temos a união dos três conjuntos. Para representar a união, geralmente utiliza-se o máximo dos conjuntos (Mandani), o que, portanto, resulta na forma da figura.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102026635-c594c600-3d7d-11eb-9610-0c1b0ae2bc28.jpg"/></div>
-
-
+<p>Finalmente, para que possamos encontrar um valor de saída para a potência (defuzzificação) podemos utilizar vários métodos. Achar o centro de massa da figura resultante é um deles (difícil de calcular). Outro método, chamado Média dos Máximos, calcula a média dos valores típicos das funções ativadas (valores de máximo) ponderados pelos graus de pertinência com que estes conjuntos foram ativados. Assim, para o caso temos o indicado na figura.</p>
+<div align="center"><img src=""/></div>
 
 
 
