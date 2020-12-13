@@ -446,6 +446,8 @@ Para a União e a interseção, existem diferentes formas, propostas por diferen
 <p>Por outro lado, para calcular a influência dos quantificadores de atenuação nos conjuntos Fuzzy, podemos usar potências fracionárias. Ou seja, µatenuador de A = (µA)¹/ⁿ. Assim sendo, para diferentes valores de n poderíamos modelar diferentes quantificadores de atenuação, conforme mostrado na figura.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102015052-dae70180-3d37-11eb-84d2-f6ac7411bc90.jpg"/></div>
 
+## Cap 05: 🔀 Fuzzy system building 🧱
+<p>
 
 
 
