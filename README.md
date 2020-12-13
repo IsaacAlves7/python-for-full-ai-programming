@@ -432,13 +432,15 @@ Se temperatura é alta E pressão é baixa então vazão é alta</p>
 Para a União e a interseção, existem diferentes formas, propostas por diferentes autores, para realizar as operações, como mostra a tabela a seguir:</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102003141-43a38f00-3ce2-11eb-8ce0-da077f42b9b3.jpg"/></div>
 
-## Quantificadores
+## 📉 Quantificadores 📈
 <p>Os <b>quantificadores</b> são termos que modificam os conjuntos Fuzzy originais, a partir de alguma operação matemática feita com os mesmos. Os principais quantificadores são dos seguintes tipos:</p>
 <ul>
   <li><b>Intensificador:</b> muito, extremamente, super, hiper.</li>
+  <li><b>Atenuador:</b> pouco, levemente, discretamente.</li>  
+  <li><b>Aproximador:</b> em torno de, por volta de, aproximadamente.</li>
+  <li><b>Restritivo:</b> no máximo, a partir de, não maior que.</li>  
 </ul>
-
-
+<p>Para modelar o calculo da influência dos quantificadores de intensificação nos conjuntos Fuzzy originais, podemos usar potências inteiras. Ou seja, µintensificador de A = (µ  )  . Desta forma, para diferentes valores de n poderíamos modelar diferentes quantificadores de intensificação, conforme mostrado na figura.</p>
 
 
 
