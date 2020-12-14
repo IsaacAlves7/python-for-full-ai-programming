@@ -547,9 +547,12 @@ Ou seja, para uma distância de 12 jardas e um ângulo de -45 graus, o controle 
 
 Qualquer processo de otimização pode ser resumido em como encontrar os parâmetros que minimizam (ou maximizam, depende do problema) uma determinada função multi parametrizada (de muitos parâmetros), ou seja, encontrar o MIN ( f( x1, x2, x3,...xn)). 
 
-Todo problema de maximização pode ser transformado em um problema de minimização e vice versa. Por exemplo, tomando-se a função mono-parametrizada y = f(x) = 2-x2, no intervalo (-2<x<2), teremos um único ponto (x=0) que maximiza a função</p>
-<p>
+Todo problema de maximização pode ser transformado em um problema de minimização e vice versa. Por exemplo, tomando-se a função mono-parametrizada y = f(x) = 2-x2, no intervalo (-2<x<2), teremos um único ponto (x=0) que maximiza a função.</p>
+<p>Entretanto, se multiplicarmos a função f(x) por -1, calculando então a função g(x) = -f(x) = x2 – 1, teríamos um único e mesmo ponto (x=0) que minimiza a função para o mesmo intervalo. Assim, em geral, podemos estudar otimização apenas como um problema de minimização ou apenas como um problema de maximização, pois o(s) ponto(s) de minimização da função e o(s) de maximização da função inversa são os mesmos. 
 
+Quando a abordagem escolhida é estudar os problemas de otimização como problemas de minimização, o valor da função pode ser visto como um “custo” a ser minimizado.
+
+Mesmo trabalhando com uma <em>função mono-parametrizada</em>, é possível que esta possua, dentro de um determinado intervalo, vários pontos de mínimos ou máximos relativos, conhecidos como mínimos locais e máximos locais, havendo somente um ponto de mínimo global ou de máximo global no intervalo. Uma função desse tipo é chamada de <b>unimodal</b>.</p>
 
 
 
