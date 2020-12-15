@@ -575,7 +575,6 @@ Mesmo trabalhando com uma <em>função mono-parametrizada</em>, é possível que
 Os parâmetros da função podem ainda estar sujeitos a restrições expressas por meio de equações ou inequações, tais como:
 Minimizar f(x) = x2 + y2 + 4
 sujeito às restrições de: 2x - 3y < 5 e de: x + y = 7. <br />
- 
 Quando a função objetivo e as funções das restrições possuem apenas relações lineares (operadores aritméticos de adição, subtração multiplicação e divisão), o problema é de Programação Linear. Caso, entretanto, haja algum outro operador nas funções, tais como exponenciação, logaritmos, expressões trigonométricas ou quaisquer outros operadores não lineares, o problema é de Programação não Linear.</p>
 <p>Os parâmetros da função objetivo podem ainda ser <b>contínuos</b> ou <b>discretos</b>.</p>
 <blockquote><b>Parâmetros contínuos</b> podem levar a situações onde haja uma quantidade infinita de soluções possíveis (combinações de diferentes valores para os parâmetro que otimizam a função objetivo e não ferem nenhuma restrição). </blockquote>
