@@ -585,7 +585,19 @@ Quando a função objetivo e as funções das restrições possuem apenas relaç
 <ol>
   <li>Uma primeira ideia, usando <b>força bruta computacional</b>, pode ser simplesmente gerar aleatoriamente soluções, ou seja, valores aleatórios para os parâmetros dentro do espaço de busca e testar as soluções geradas para cada conjunto de parâmetros, comparando os resultados dos testes. Esse método é conhecido como <b>Busca Aleatória</b> e sua principal deficiência está no grande esforço computacional necessário a encontrar uma solução satisfatória, que pode inclusive, dependendo do espaço de busca do problema, virtualmente inviabilizar a obtenção de uma solução satisfatória.</li>
   <li>Existem, por outro lado, métodos clássicos, chamados de <b>Técnicas Analíticas</b>, como o método de Newton-Raphson, que utilizam técnicas exclusivamente matemáticas para determinar os pontos de máximo e mínimo das funções. Tais métodos se baseiam em geral em técnicas de cálculo diferencial, o que exige, por sua vez, que as funções sejam contínuas e diferenciáveis no espaço de busca, características que muitas vezes não são encontradas em problemas do mundo real. Nessas técnicas pode ainda ser difícil determinar os pontos de máximo ou mínimo quando as funções possuem muitos parâmetros e são intensamente multi-modais.</li>
+  <li>Já os métodos conhecidos como <li>Subida de Encosta</li>, tais como o método do Gradiente Descendente ou o método de Recozimento Simulado procuram em um pequeno espaço de busca em torno de uma solução, buscando localizar a direção em que a função cresce ou decresce. Tais métodos são rápidos, porém são muito sensíveis à existência de máximos ou mínimos locais.</li>
+  <li>Os Métodos Heurísticos, tais como os <b>Algoritmos Genéticos</b>, têm como principal característica a manutenção de uma população de soluções e a exploração do espaço de busca tanto de forma local no entorno das soluções existentes quanto de forma global, ao abrir novos pontos de busca distantes das soluções locais. Algumas das principais vantagens que os algoritmos genéticos apresentam são:
+A possibilidade de realizar exploração simultânea em distintos pontos do espaço de busca (que pode ser melhor explorada com o uso de computação paralela);
+O funcionamento em espaços de busca contínuos ou discretos;
+O fato de não serem sensíveis à existência de mínimos locais;
+A capacidade de descobrir várias soluções (particularmente útil para funções multi-modais);
+A característica de não imporem condições especiais à função a ser otimizada (continuidade, existência de derivada, etc.);
+A possibilidade de funcionarem bem em espaços de busca com muitas dimensões;
+A capacidade de permitirem modelar restrições e otimizar simultaneamente múltiplas funções, mesmo que conflitantes;
+• A capacidade de ser facilmente mesclados com outras técnicas heurísticas, compondo soluções híbridas que exploram as qualidades individuais de cada técnica específica; e,
+• A característica de serem fáceis de implantar computacionalmente, não dependendo de profunda compreensão do problema a ser otimizado e de sua modelagem.
 
+Entretanto, tais métodos são computacionalmente intensos e podem demorar a convergir para uma solução aceitável (dependendo da parametrização, como veremos adiante). Portanto, sua principal restrição é a utilização em problemas de otimização que exijam respostas em tempo real.</li>
 </ol>
 
 
