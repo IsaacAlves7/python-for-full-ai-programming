@@ -15,6 +15,7 @@
   <li>🧪 Data Science 📈</li>  
   <li>🤖 Machine Learning 📚</li>  
   <li>🗣️ Voice Recognition 👂</li>
+  <li>🖥️ Computer Vision 👁️</li>
   <li>🦾 Automation Systems 🦿</li>
   <li>👤 Deep Learning 📚</li>
   <li>👥 </li>
